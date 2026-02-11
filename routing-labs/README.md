@@ -22,4 +22,4 @@ Established successful communication between different network segments using ro
 Routing logic, IP addressing, network topology understanding, packet flow analysis
 
 ## Statik Routing Topology
-![Statik Routing Topology](topology.png)
+![Statik Routing Topology](StatikRouting.png)
