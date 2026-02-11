@@ -21,5 +21,8 @@ Established successful communication between different network segments using ro
 ## Skills gained
 Routing logic, IP addressing, network topology understanding, packet flow analysis
 
-## Statik Routing Topology
+## Statik Routing Topology-1
 ![Statik Routing Topology](StatikRouting.png)
+
+## Statik Routing Topology-2
+![Statik Routing Topology](StatikRouting_topology.png)
